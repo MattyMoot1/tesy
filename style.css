@@ -1,0 +1,17 @@
+body {
+width: 960px;
+margin: 0 auto;
+font-family: Arial;
+}
+header, footer {
+background-color: #304000;
+color: #fff;
+padding: 0.3em;
+text-align: center;
+}
+section {
+padding: 1em;
+}
+footer {
+font-size: 75%;
+}
