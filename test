@@ -1,17 +1,75 @@
-<body> {
-  width: 960px;
-  margin: 0 auto;
-  font-family: Arial;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Poem And Quotes</title>
+<style type="text/css" media="screen">
+body {
+width: 960px;
+margin: 0 auto;
+font-family: Arial;
 }
 header, footer {
-  background-color: #304000;
-  color: #001;
-  padding: 0.3em;
-  text-align: center
+background-color: #304000;
+color: #fff;
+padding: 0.3em;
+text-align: center;
 }
-section{
-  padding: 1em;
+section {
+padding: 1em;
 }
-footer{
-  font-size: 75%;
+footer {
+font-size: 75%;
 }
+</style>
+</head>
+<body>
+ <header>
+<h1>Poem and Quotes on Kindness</h1>
+ </header>
+ <section id="main">
+<article>
+<h2>Send a Drop of Kindness</h2>
+<h3>Poet: <cite>Julie Hebert</cite></h3>
+<p>
+Send a drop of <strong>kindness</strong>,<br />
+And see a <em>happy face</em>.<br />
+A drop of kindness goes real far,<br />
+It may even reach outer space.</p>
+<p>Send a drop of <strong>love</strong>,<br />
+And feel a <em>loving embrace</em>.<br />
+It feels so good to feel like,<br />
+You are in the right place.</p>
+<p>Send a drop of <strong>hope</strong>,<br />
+But be that <em>shinning star</em>.<br />
+Hope is wonderful to have,<br /> 
+But sometimes you can't sit away so far.</p>
+<p>Send a drop of <strong>faith</strong>,<br />
+With a <em>single prayer</em>.<br />
+And God will show the way,<br />
+As faith is always there.</p>
+</p>
+</article>
+<hr />
+<article>
+<h2>Quotes on Kindness</h2>
+<blockquote cite="http://www.wow4u.com/">
+<p>"No act of kindness, no matter how small is ever wasted." --
+<cite>Aesop</cite></p>
+<p>"The love, kindnesses, and value we have given authentically
+to others will be our remaining treasures at the end of life. --
+<cite>Steve Brunkhorst</cite></p>
+<p>"You will never have a completely bad day if you show kindness
+at least once." -- <cite>Greg Henry Quinn</cite></p>
+</article>
+ </section>
+ <footer>
+<h4>Site created on:<time datetime="2016-09-01">1 September
+2016</time></h4>
+<h4>Our address:</h4>
+<address>Level 16, Plimmer Towers<br />
+2-6 Gilmer Terrace<br />
+Wellington 6142, New Zealand</address>
+ </footer>
+</body>
+</html>
